@@ -13,11 +13,11 @@ Each task should fit in a ~30–60 min session.
 ---
 
 ## 1. Project Setup
-- [ ] Create new Unity project (URP recommended)
-- [ ] Setup basic player capsule
-- [ ] Create flat ground terrain
-- [ ] Implement basic WASD player movement
-- [ ] Set up first-person camera (foloow mouse pointer)
+- [x] Create new Unity project (URP recommended)
+- [x] Setup basic player capsule
+- [x] Create flat ground terrain
+- [x] Implement basic WASD player movement
+- [x] Set up first-person camera (foloow mouse pointer)
 
 ---
 
