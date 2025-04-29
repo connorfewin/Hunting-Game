@@ -17,7 +17,7 @@ Each task should fit in a ~30–60 min session.
 - [ ] Setup basic player capsule
 - [ ] Create flat ground terrain
 - [ ] Implement basic WASD player movement
-- [ ] Set up first-person camera
+- [ ] Set up first-person camera (foloow mouse pointer)
 
 ---
 
