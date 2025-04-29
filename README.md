@@ -2,13 +2,13 @@
 
 A 30–60 min task-driven development roadmap to complete the game from start to finish.
 
+✅ = Completed
+
 ---
 
-## 📈 Project Phases
+# 📈 Project Phases
 
 Each task should fit in a ~30–60 min session.
-
-✅ = Completed
 
 ---
 
@@ -17,12 +17,15 @@ Each task should fit in a ~30–60 min session.
 - [ ] Setup basic player capsule
 - [ ] Create flat ground terrain
 - [ ] Implement basic WASD player movement
+- [ ] Set up first-person camera
 
 ---
 
 ## 2. Gun Mechanics Prototype
 - [ ] Add basic gun object (placeholder shape)
-- [ ] Implement raycast shooting from camera
+- [ ] Implement raycast shooting from camera center
+- [ ] Add basic crosshair UI
+- [ ] Implement "Focus Aim" (Right Mouse Button) - slight zoom for basic iron sight
 - [ ] Show bullet hit (spawn sphere at hit point)
 - [ ] Display simple ammo counter (optional)
 
@@ -99,8 +102,10 @@ Each task should fit in a ~30–60 min session.
 ---
 
 ## 13. Scope Upgrades
-- [ ] Add zoom scopes (2x, 4x)
-- [ ] Scope swapping functionality
+- [ ] Create scope items (2x, 4x, night vision, infrared)
+- [ ] Attach scopes to gun
+- [ ] Override base "Focus Aim" zoom when equipped
+- [ ] Add scope swapping functionality
 
 ---
 
@@ -168,6 +173,6 @@ Each task should fit in a ~30–60 min session.
 ---
 
 ## 📋 Notes:
-- Focus on getting a working "boring" loop first.
-- Add silly/rare/fun content once the core systems are working.
+- Start with first-person crosshair and simple "Focus Aim."
+- Scopes and advanced upgrades build naturally off that foundation.
 - Keep each phase simple, functional, and playable.
