@@ -43,7 +43,7 @@ Each task should fit in a ~30–60 min session.
 ## 4. Money & Trade Loop Prototype
 - [x] Create Outpost (simple box placeholder)
 - [x] Trade animal for money on delivery
-- [ ] Display money counter on UI
+- [x] Display money counter on UI
 
 ---
 
