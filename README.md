@@ -36,14 +36,13 @@ Each task should fit in a ~30–60 min session.
 - [x] Add health system to animal
 - [x] Animal dies when hit by raycast
 - [x] Animal ragdoll when dead
-- [ ] Death marker for animal
-- [ ] Implement "drag animal" system (pickup/carry)
+- [x] Implement "drag animal" system (pickup/carry)
 
 ---
 
 ## 4. Money & Trade Loop Prototype
-- [ ] Create Outpost (simple box placeholder)
-- [ ] Trade animal for money on delivery
+- [x] Create Outpost (simple box placeholder)
+- [x] Trade animal for money on delivery
 - [ ] Display money counter on UI
 
 ---
