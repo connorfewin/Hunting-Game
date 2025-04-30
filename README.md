@@ -22,19 +22,21 @@ Each task should fit in a ~30–60 min session.
 ---
 
 ## 2. Gun Mechanics Prototype
-- [ ] Add basic gun object (placeholder shape)
-- [ ] Implement raycast shooting from camera center
-- [ ] Add basic crosshair UI
-- [ ] Implement "Focus Aim" (Right Mouse Button) - slight zoom for basic iron sight
-- [ ] Show bullet hit (spawn sphere at hit point)
+- [x] Add basic gun object (placeholder shape)
+- [x] Implement raycast shooting from camera center
+- [x] Add basic crosshair UI
+- [x] Implement "Focus Aim" (Right Mouse Button) - slight zoom for basic iron sight
+- [x] Show bullet hit (spawn sphere at hit point)
 - [ ] Display simple ammo counter (optional)
 
 ---
 
 ## 3. Animal Basics
-- [ ] Create dummy animal prefab (cube placeholder)
-- [ ] Add health system to animal
-- [ ] Animal dies when hit by raycast
+- [x] Create dummy animal prefab (cube placeholder)
+- [x] Add health system to animal
+- [x] Animal dies when hit by raycast
+- [x] Animal ragdoll when dead
+- [ ] Death marker for animal
 - [ ] Implement "drag animal" system (pickup/carry)
 
 ---
