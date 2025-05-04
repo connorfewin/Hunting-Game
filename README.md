@@ -54,9 +54,9 @@ Each task should fit in a ~30–60 min session.
 ---
 
 ## 6. Animal Movement
-- [x] Herd Wandering
+- [x] Herd Wandering/movement
 - [x] Herd Scatter (from gun hit point)
-- [ ] General Player Avoidance
+- [x] General Player Avoidance
 
 ---
 
