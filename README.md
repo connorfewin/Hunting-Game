@@ -53,10 +53,10 @@ Each task should fit in a ~30–60 min session.
 
 ---
 
-## 6. Animal AI Phase 1 (Sight)
-- [ ] Vision range + field of view detection
-- [ ] Animals flee if player seen
-- [ ] Random flee direction
+## 6. Animal Movement
+- [x] Herd Wandering
+- [ ] Herd Scatter (on gunshot)
+- [ ] General Player Avoidance
 
 ---
 
