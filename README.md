@@ -48,8 +48,8 @@ Each task should fit in a ~30–60 min session.
 ---
 
 ## 5. Basic Game Loop MVP
-- [ ] Spawn random animals across terrain
-- [ ] Hunt → Retrieve → Trade infinite loop
+- [x] Spawn random animals across terrain
+- [x] Hunt → Retrieve → Trade infinite loop
 
 ---
 
