@@ -54,8 +54,17 @@
 ## 7. Hunting Improvements
 - [x] Head Shot (Instant kill)
 - [x] Body shot (Slows animal down)
-- [ ] Improve rectical (opaque)
-- [ ] Gun Sway
-- [ ] Better hit prefab
-  - [ ] Stays on animal
-  - [ ] Looks like wound
+- [x] Improve rectical (opaque)
+- [x] Gun Sway
+- [x] Better hit prefab
+  - [x] Stays on animal
+  - [x] Looks like wound
+     
+---
+## 8. Basic Store
+- [ ] Ammo Counter
+  - [ ] Reload Delay
+- [ ] Purchase Ammo
+- [ ] Basic Trading Post UI
+  - [ ] Sell Instructions
+  - [ ] Buy Instructions 
