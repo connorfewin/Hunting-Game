@@ -52,8 +52,8 @@
 ---
 
 ## 7. Hunting Improvements
-- [ ] Head Shot (Instant kill)
-- [ ] Body shot (Slows animal down)
+- [x] Head Shot (Instant kill)
+- [x] Body shot (Slows animal down)
 - [ ] Improve rectical (opaque)
 - [ ] Gun Sway
 - [ ] Better hit prefab
