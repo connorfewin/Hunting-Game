@@ -1,16 +1,7 @@
 # 🛠️ Open World Hunting Game - Dev Roadmap
-
-A 30–60 min task-driven development roadmap to complete the game from start to finish.
-
-✅ = Completed
-
 ---
 
 # 📈 Project Phases
-
-Each task should fit in a ~30–60 min session.
-
----
 
 ## 1. Project Setup
 - [x] Create new Unity project (URP recommended)
