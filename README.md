@@ -68,3 +68,10 @@
 - [x] Basic Trading Post UI
   - [x] Sell Sheep Button
   - [x] Buy Ammo Button 
+
+---
+## 9. Second Animal (Rare/paranoid)
+- [ ] Create second animal prefab
+  - [ ] Increase hunting difficulty
+  - [ ] Increased rarity
+  - [ ] Stronger hurding. Try and stay closer together
