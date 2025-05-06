@@ -62,9 +62,9 @@
      
 ---
 ## 8. Basic Store
-- [ ] Ammo Counter
-  - [ ] Reload Delay
-- [ ] Purchase Ammo
-- [ ] Basic Trading Post UI
-  - [ ] Sell Instructions
-  - [ ] Buy Instructions 
+- [x] Ammo Counter
+  - [x] Reload Delay
+- [x] Purchase Ammo
+- [x] Basic Trading Post UI
+  - [x] Sell Sheep Button
+  - [x] Buy Ammo Button 
