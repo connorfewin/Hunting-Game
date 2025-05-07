@@ -71,7 +71,7 @@
 
 ---
 ## 9. Second Animal (Rare/paranoid)
-- [ ] Create second animal prefab
-  - [ ] Increase hunting difficulty
-  - [ ] Increased rarity
-  - [ ] Stronger hurding. Try and stay closer together
+- [x] Create second animal prefab
+- [ ] Increase hunting difficulty
+- [x] Increased rarity
+- [x] Stronger hurding. Try and stay closer together
