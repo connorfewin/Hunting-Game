@@ -72,6 +72,18 @@
 ---
 ## 9. Second Animal (Rare/paranoid)
 - [x] Create second animal prefab
-- [ ] Increase hunting difficulty
+- [x] Increase hunting difficulty
 - [x] Increased rarity
 - [x] Stronger hurding. Try and stay closer together
+- [x] Giraffe in the market
+
+---
+## 10. Hover Info
+- [ ] Create animal stats UI
+- [ ] When aiming display animal stats ui
+
+--- 
+## 11. Migration Patters
+- [ ] Setup general migration
+- [ ] Editable migration stats (Idle sheep vs migrating giraffe)
+- [ ] Scatter override from migration
