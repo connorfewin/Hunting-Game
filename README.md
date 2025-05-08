@@ -84,8 +84,17 @@
 - [x] When aiming display animal stats ui
 - [x] Distance away indicator
 
+---
+## 11. Better Animal Movements
+- [ ] Scatter (on gun shot) in random direction
+- [ ] Scatter options (paranoid level)
+  - Gun Shot Only (Sheep)
+  - Player in no sight range or gunshot (Giraffe)
+  - Player in sight range, no sight range, or gunshot
+- [ ] Player avoidance speed (in comparison to base speed and scatter speed (could pick a random number in between the two))
+
 --- 
-## 11. Migration Patters
+## 11. Animal Migration
 - [ ] Setup general migration
 - [ ] Editable migration stats (Idle sheep vs migrating giraffe)
 - [ ] Scatter override from migration
