@@ -82,7 +82,7 @@
 ## 10. Hover Info
 - [x] Create animal stats UI
 - [x] When aiming display animal stats ui
-- [ ] Distance away indicator
+- [x] Distance away indicator
 
 --- 
 ## 11. Migration Patters
