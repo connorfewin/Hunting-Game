@@ -92,9 +92,10 @@
   - Player in no sight range or gunshot (Giraffe)
   - Player in sight range, no sight range, or gunshot
 - [ ] Player avoidance speed (in comparison to base speed and scatter speed (could pick a random number in between the two))
+- [ ] Herd Player Avoidance (if one animal scatters or avoid, once another animal sees it (in sight range or no sight range)) it scatters or avoids too
 
 --- 
-## 11. Animal Migration
+## 12. Animal Migration
 - [ ] Setup general migration
 - [ ] Editable migration stats (Idle sheep vs migrating giraffe)
 - [ ] Scatter override from migration
