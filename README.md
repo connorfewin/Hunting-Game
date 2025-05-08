@@ -76,11 +76,12 @@
 - [x] Increased rarity
 - [x] Stronger hurding. Try and stay closer together
 - [x] Giraffe in the market
+- [x] Fix Scatter speed
 
 ---
 ## 10. Hover Info
-- [ ] Create animal stats UI
-- [ ] When aiming display animal stats ui
+- [x] Create animal stats UI
+- [x] When aiming display animal stats ui
 
 --- 
 ## 11. Migration Patters
