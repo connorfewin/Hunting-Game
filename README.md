@@ -91,7 +91,7 @@
   - Gun Shot Only (Sheep)
   - Player in no sight range or gunshot (Giraffe)
   - Player in sight range, no sight range, or gunshot
-- [ ] Player avoidance speed (in comparison to base speed and scatter speed (could pick a random number in between the two))
+- [x] Player avoidance speed (in comparison to base speed and scatter speed (could pick a random number in between the two))
 - [x] Herd Player Avoidance (optional per animal)
   - if one animal scatters or avoid, once another animal sees it (in sight range or no sight range) it scatters or avoids too
 
